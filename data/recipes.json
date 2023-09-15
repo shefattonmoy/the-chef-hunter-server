@@ -1,0 +1,107 @@
+[
+    {
+        "id": "1",
+        "name": "Kung Pao Chicken",
+        "description": "A spicy stir-fry dish made with diced chicken, peanuts, vegetables, and chili peppers.",
+        "image_url": "https://i.postimg.cc/L6w3j3nK/Kung-Pao-Chicken.jpg",
+        "ingredients": "Chicken breast, Peanuts, Dried chili peppers, Soy sauce, Sugar, Cornstarch, Garlic, Ginger, Scallions"
+    },
+    {
+        "id": "2",
+        "name": "Dumplings",
+        "description": "Steamed or fried pockets of dough filled with meat, vegetables, or seafood.",
+        "image_url": "https://i.postimg.cc/bwGDH743/Dumplings.jpg",
+        "ingredients": "Ground pork, Cabbage, Soy sauce, Ginger, Garlic, Sesame oil, Dumpling wrappers"
+    },
+    {
+        "id": "3",
+        "name": "Beef Chow Mein",
+        "description": "A stir-fried noodle dish with beef, vegetables, and Chinese egg noodles.",
+        "image_url": "https://i.postimg.cc/k5Q5TqsF/Beef-Chow-Mein.jpg",
+        "ingredients": "Beef sirloin, Chinese egg noodles, Bean sprouts, Carrots, Celery, Scallions, Soy sauce, Oyster sauce, Cornstarch, Garlic, Ginger"
+    },
+    {
+        "id": "4",
+        "name": "Hot and Sour Soup",
+        "description": "A spicy and tangy soup made with mushrooms, bamboo shoots, tofu, and eggs.",
+        "image_url": "https://i.postimg.cc/wvWgrvmJ/Hot-and-Sour-Soup.jpg",
+        "ingredients": "Chicken broth, Shiitake mushrooms, Bamboo shoots, Tofu, Eggs, Vinegar, Soy Sauce, Chili oil, Cornstarch, Garlic, Ginger, Green onions"
+    },
+    {
+        "id": "5",
+        "name": "General Tso's Chicken",
+        "description": "A sweet and spicy fried chicken dish coated in a thick sauce made with soy sauce, sugar, and vinegar.",
+        "image_url": "https://i.postimg.cc/DzvVKhFc/General-Tso-s-Chicken.jpg",
+        "ingredients": "Chicken breast, Egg, Cornstarch, Soy sauce, Sugar, Rice vinegar, Garlic, Ginger, Dried chili peppers, Scallions, Vegetable oil"
+    },
+    {
+        "id": "6",
+        "name": "Egg Fried Rice",
+        "description": "A simple but delicious dish made by stir-frying cooked rice with eggs and vegetables.",
+        "image_url": "https://i.postimg.cc/3W56f5nm/Egg-Fried-Rice.jpg",
+        "ingredients": "Cooked rice, Eggs, Peas, Carrots, Green onions, Soy sauce, Vegetable oil"
+    },
+    {
+        "id": "7",
+        "name": "Ma Po Tofu",
+        "description": "A spicy and savory dish made with soft tofu, ground pork, and Sichuan peppercorns.",
+        "image_url": "https://i.postimg.cc/bNgWHM1D/Ma-Po-Tofu.jpg",
+        "ingredients": "Soft tofu, Ground pork, Sichuan peppercorns, Chili bean paste, Garlic, Ginger, Scallions, Soy sauce, Sugar, Cornstarch, Vegetable oil"
+    },
+    {
+        "id": "8",
+        "name": "Wonton Soup",
+        "description": "A light soup made with wontons filled with ground pork and shrimp, served with vegetables and noodles.",
+        "image_url": "https://i.postimg.cc/gjNsRC1G/Wonton-Soup.jpg",
+        "ingredients": "Ground pork, Shrimp, Wonton wrappers, Chicken broth, Bok choy, Carrots, Green onions, Soy sauce, Rice vinegar, Ginger, Sesame oil, Egg noodles"
+    },
+    {
+        "id": "9",
+        "name": "Mongolian Beef",
+        "description": "A sweet and savory stir-fry dish made with thinly sliced beef, green onions, and a sauce made with soy sauce, brown sugar, and garlic.",
+        "image_url": "https://i.postimg.cc/Dwtgqdp4/Mongolian-Beef.jpg",
+        "ingredients": "Flank steak, Cornstarch, Vegetable oil, Garlic, Ginger, Green onions, Soy sauce, Brown sugar, Water, Corn syrup, Red pepper flakes"
+    },
+    {
+        "id": "10",
+        "name": "Mapo Eggplant",
+        "description": "A Sichuan-style dish made with eggplant, ground pork, doubanjiang (spicy bean paste), and Sichuan peppercorns.",
+        "image_url": "https://i.postimg.cc/s2dYBf1p/Mapo-Eggplant.jpg",
+        "ingredients": "Eggplant, Ground pork, Doubanjiang (spicy bean paste), Sichuan peppercorns, Garlic, Ginger, Green onions, Soy sauce, Cornstarch, Vegetable oil"
+    },
+    {
+        "id": "11",
+        "name": "Chinese Hot and Sour Soup",
+        "description": "A popular soup with a combination of spicy and sour flavors made with tofu, shiitake mushrooms, and wood ear mushrooms.",
+        "image_url": "https://i.postimg.cc/9XnqRXnr/Chinese-Hot-and-Sour-Soup.jpg",
+        "ingredients": "Tofu, Shiitake mushrooms, Wood ear mushrooms, Bamboo shoots, Eggs, Cornstarch, Soy sauce, Rice vinegar, Sesame oil, Chili oil, White pepper, Green onions"
+    },
+    {
+        "id": "12",
+        "name": "Chinese Steamed Fish",
+        "description": "A simple and healthy Chinese dish made with a whole fish steamed with ginger, scallions, and soy sauce.",
+        "image_url": "https://i.postimg.cc/nzMhpBZT/Chinese-Steamed-Fish.jpg",
+        "ingredients": "Whole fish (such as sea bass or tilapia), Ginger, Scallions, Soy sauce, Shaoxing wine, Sesame oil, Cornstarch, Water"
+    },
+    {
+        "id": "13",
+        "name": "Dan Dan Noodles",
+        "description": "A spicy and savory Sichuan-style noodle dish made with ground pork, sesame paste, and Sichuan peppercorns.",
+        "image_url": "https://i.postimg.cc/zXwbdwfR/Dan-Dan-Noodles.jpg",
+        "ingredients": "Noodles, Ground pork, Soy sauce, Sesame oil, Sugar, Chili oil, Sichuan peppercorns, Garlic, Ginger, Green onions, Sesame paste, Vegetable oil"
+    },
+    {
+        "id": "14",
+        "name": "Peking Duck",
+        "description": "A classic Beijing dish made with crispy roasted duck served with thin pancakes, scallions, and hoisin sauce.",
+        "image_url": "https://i.postimg.cc/Hstn0pSw/Perking-Duck.jpg",
+        "ingredients": "Whole duck, Hoisin sauce, Scallions, Thin pancakes, Honey, Rice vinegar, Ginger, Star anise, Cinnamon, Sichuan peppercorns"
+    },
+    {
+        "id": "15",
+        "name": "Ma Po Tofu",
+        "description": "A spicy and flavorful Sichuan-style dish made with tofu, ground pork, and doubanjiang (spicy bean paste).",
+        "image_url": "https://i.postimg.cc/bNgWHM1D/Ma-Po-Tofu.jpg",
+        "ingredients": "Tofu, Ground pork, Doubanjiang (spicy bean paste), Soy sauce, Sichuan peppercorns, Garlic, Ginger, Green onions, Cornstarch, Vegetable oil"
+    }
+]

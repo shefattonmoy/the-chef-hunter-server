@@ -1,0 +1,50 @@
+[
+    {
+        "chefID": "1",
+        "chefPicture": "https://i.postimg.cc/SKHvvjZs/Chef-Chan-Tung.jpg",
+        "chefName": "Chef Jovel Chan",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 120,
+        "likes": 2500
+    },
+    {
+        "chefID": "2",
+        "chefPicture": "https://i.postimg.cc/3xJVys4K/Chef-Chan-Yan-tak.jpg",
+        "chefName": "Chef Chan Yan-tak",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 90,
+        "likes": 1800
+    },
+    {
+        "chefID": "3",
+        "chefPicture": "https://i.postimg.cc/1RwLbc1Z/Chef-Peter-Chan.jpg",
+        "chefName": "Chef Peter Chan",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 75,
+        "likes": 1500
+    },
+    {
+        "chefID": "4",
+        "chefPicture": "https://i.postimg.cc/wM8n73JP/Chef-Chen-Kenmin.jpg",
+        "chefName": "Chef Chen Kenmin",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 100,
+        "likes": 2200
+    },
+    {
+        "chefID": "5",
+        "chefPicture": "https://i.postimg.cc/25tsN05C/Chef-Richard-Chen.jpg",
+        "chefName": "Chef Richard Chen",
+        "yearsOfExperience": 18,
+        "numberOfRecipes": 200,
+        "likes": 3200
+    },
+    {
+        "chefID": "6",
+        "chefPicture": "https://i.postimg.cc/ZKhhqsxR/Chef-Chen-Kenichi.jpg",
+        "chefName": "Chef Chen Kenichi",
+        "yearsOfExperience": 6,
+        "numberOfRecipes": 50,
+        "likes": 1200
+    }
+]
